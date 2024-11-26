@@ -1,0 +1,37 @@
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.log
+
+# VSCode
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build directories
+target/
+build/
+
+# Maven
+.mvn/
+*.log
+
+# Gradle
+.gradle/
+build/
